@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.0.0
+MinimumVisualStudioVersion = 10.0.0.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Botwinder.bash", "Bot\Botwinder.bash.csproj", "{CDBA0522-BAF5-4D0C-9452-E80BB491E954}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Botwinder.core", "Core\Botwinder.core.csproj", "{144B70B7-FD91-458E-B48E-8469FB71A474}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDBA0522-BAF5-4D0C-9452-E80BB491E954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDBA0522-BAF5-4D0C-9452-E80BB491E954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDBA0522-BAF5-4D0C-9452-E80BB491E954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDBA0522-BAF5-4D0C-9452-E80BB491E954}.Release|Any CPU.Build.0 = Release|Any CPU
+		{144B70B7-FD91-458E-B48E-8469FB71A474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{144B70B7-FD91-458E-B48E-8469FB71A474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{144B70B7-FD91-458E-B48E-8469FB71A474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{144B70B7-FD91-458E-B48E-8469FB71A474}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
